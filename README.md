@@ -32,4 +32,5 @@ Este repositório contém os materiais utilizados no curso de Power BI ministrad
    git clone https://github.com/profmanoel/PowerBI-FSA.git
 
 ## 📄 Licença
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais detalhes.
+
+Este projeto está licenciado sob a Licença MIT.
