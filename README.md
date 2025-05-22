@@ -1,7 +1,7 @@
 # Power BI – Fundação Santo André
 
 Este repositório contém os materiais utilizados no curso de Power BI ministrado para os alunos da Fundação Santo André. O objetivo é fornecer uma base prática e teórica para o desenvolvimento de habilidades em análise de dados utilizando o Power BI.
-
+.
 ## 📁 Estrutura do Repositório
 
 - `Analise estatistica/` – Scripts e exemplos focados em análises estatísticas aplicadas.
